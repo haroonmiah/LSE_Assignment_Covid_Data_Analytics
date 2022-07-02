@@ -35,3 +35,9 @@ In any case, the lineplot shows that the Channel Islands had the highest number 
 
 Whilst there are questions raised over the integrity and completeness of the dataset that we are using, there is no doubt that the visualisations created help to easily convey the trends of deaths, recoveries etc over time and these can be used by the government to create the stories to direct their campaigns. 
 
+After importing the ‘Tweets’ data into Python, I could see that the data consisted of 3960 rows and 21 columns, indicating that there are thousands of tweets relating to ‘#covid’ around that time. 
+
+Filtering the dataset to only include the text values, we are able to see which hashtags or words are most popular. Further refining the query to show only the words that were mentioned more that 100 times gave us the following table and visualisation:
+
+This shows us that #COVID19, #CovidIsNotOver and #China were the most common hashtags at the time. Naturally, as the cases were soaring at the time, it’s not surprising that it would be a very common point of discussion online. You can see in the visualisation that 2 countries are in the plot; China and Greece. This is likely due to people tweeting about high covid cases in those countries at the time. It would be interesting to know the date this data was taken from and compare the tweets from the beginning of the pandemic and toward the end of the data that we have.
+

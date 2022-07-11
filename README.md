@@ -13,7 +13,9 @@ The covid cases increases from the beginning (22/01/2020) all the way to the end
 
 The numerical data for Gibraltar seem to suggest the numbers are inflated. For example, the ‘Vaccinated’ sum is 5,606,041; Gibraltar’s population in 2020 was only 33,691, so how can the total vaccinated exceed this number? The sum for ‘Cases’, ‘Recovered’ and ‘Hospitalised’ also exceed the population of Gibraltar. Where is the data from and is it reliable? 
 
-Figure 3
+![alt text](https://github.com/haroonmiah/LSE_Assignment_Covid_Data_Analytics/blob/5b574e80d9f52aec7058c6edad81f3bacd07e92f/Assignment%202%20figures/Fig_3.png)
+Figure 3: Running the descriptive statistics and sum functions on Gibraltar_num DataFrame
+
 Figure 4
 
 After merging the 2 datasets together, we are able to view all the vaccination and covid data all in one data frame. The State that has received the highest number of First Doses is Gibraltar, although the State that has the highest percentage who have received the first dose but not the second dose is, ‘Saint Helena, Ascension and Tristan da Cunha’ and so this could be a State for the government to target to boost fully vaccinated numbers.  

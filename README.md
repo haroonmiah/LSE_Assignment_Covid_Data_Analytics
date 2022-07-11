@@ -5,7 +5,7 @@ The 2 main datasets provided, contain information for 12 States/Provinces. There
 
 ![alt text](https://github.com/haroonmiah/LSE_Assignment_Covid_Data_Analytics/blob/54efdb6dc7e7b3b37e565367a65633ea208029a0/Assignment%202%20figures/Fig_1.png)
 
-https://github.com/haroonmiah/LSE_Assignment_Covid_Data_Analytics/blob/3474af80056781f4579d0967c71bd97c4e5e6b8a/Assignment%202%20figures/Fig_2.png
+![alt text](https://github.com/haroonmiah/LSE_Assignment_Covid_Data_Analytics/blob/3474af80056781f4579d0967c71bd97c4e5e6b8a/Assignment%202%20figures/Fig_2.png)
 
 The covid cases increases from the beginning (22/01/2020) all the way to the end (14/10/2021), however, it fluctuates and so it would be nice to be able to visualise this data with a line chart to see the changes over time. The recovered data stops from August 2021; is this an error? On their own, the descriptive statistics will not be very meaningful; what would help is to compare the results with other State’s in the DataFrames and see how they compare. 
 

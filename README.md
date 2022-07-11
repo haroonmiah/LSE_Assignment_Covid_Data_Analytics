@@ -3,9 +3,9 @@ The UK government is boosting its efforts to increase vaccination rates through 
 
 The 2 main datasets provided, contain information for 12 States/Provinces. There are only 2 rows with missing data overall. 
 
-Figure 1
+Assignment 2 figures/Fig_1.png
 
-Figure 2
+Assignment 2 figures/Fig_2.png
 
 The covid cases increases from the beginning (22/01/2020) all the way to the end (14/10/2021), however, it fluctuates and so it would be nice to be able to visualise this data with a line chart to see the changes over time. The recovered data stops from August 2021; is this an error? On their own, the descriptive statistics will not be very meaningful; what would help is to compare the results with other State’s in the DataFrames and see how they compare. 
 

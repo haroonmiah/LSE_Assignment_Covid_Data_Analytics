@@ -3,7 +3,7 @@ The UK government is boosting its efforts to increase vaccination rates through 
 
 The 2 main datasets provided, contain information for 12 States/Provinces. There are only 2 rows with missing data overall. 
 
-Assignment 2 figures/Fig_1.png
+![alt text](https://github.com/haroonmiah/LSE_Assignment_Covid_Data_Analytics/blob/54efdb6dc7e7b3b37e565367a65633ea208029a0/Assignment%202%20figures/Fig_1.png)
 
 Assignment 2 figures/Fig_2.png
 
